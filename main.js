@@ -96,7 +96,6 @@ window.addEventListener("scroll", () => {
 /*~~~~~~~~~~~~~~~ SCROLL REVEAL ANIMATION ~~~~~~~~~~~~~~~*/
 const sr = ScrollReveal({
   origin: "top",
-  
   duration: 2500,
   delay: 400,
 });
